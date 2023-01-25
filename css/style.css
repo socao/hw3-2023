@@ -7,9 +7,9 @@ body {
     font-family: Arial, Verdana;
 }
 h1 {
-    color: #C4C4C4;
     text-align: center;
     padding: 15px;
+    font-size: 42px;
 }
 h2 {
     color: #0D0D0D;
@@ -37,6 +37,9 @@ div {
     border-radius: 15px;
     margin: 15px;
     line-height: 200%;
+}
+.introduction p {
+    color: #ffffff;
 }
 .red {
     background:#FF0000;
@@ -90,4 +93,7 @@ footer {
     padding-top: 15px;
     padding-right: 15px;
     padding-bottom: 15px;
+}
+footer p {
+    color: #ffffff;
 }
